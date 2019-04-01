@@ -1,0 +1,1 @@
+# Providing basic skills of Computer vision and Machine Learning methods. Did algorithms of photos’ reconstructions, recognition of road signs with SVM classification algorithms and changing sizes of pictures with the preservation of proportions.
